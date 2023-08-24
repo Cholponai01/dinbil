@@ -296,7 +296,7 @@ class _NameViewState extends State<NameView> {
                   firstText = 'Маликуль-Мульк مالك الملك';
                   secondText = 'Ааламдын чыныгы кожоюну, падышасы';
                 } else if (number == 85) {
-                  firstText = 'Зуль-Джаляли уаль-Икрам ذو الجلال والإكرام';
+                  firstText = 'Зуль-Джаляли уаль-Икрам \nذو الجلال والإكرام';
                   secondText = 'Улуу урмат менен жакшылык ээси';
                 } else if (number == 86) {
                   firstText = 'Аль-Мук̣сит̣ المقسط';
